@@ -16,11 +16,11 @@ author: Ryan Kleffman
 copyright: 2023
 
 share:
-  facebook: true
-  twitter: true
-  gplus: true
+  facebook: false
+  twitter: false
+  gplus: false
   linkedin: true
-  pinterest: true
+  pinterest: false
   email: true
 
 social:
