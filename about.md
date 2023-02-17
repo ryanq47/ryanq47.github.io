@@ -18,3 +18,8 @@ If you're looking for my resume, click here: (Add In resume link)
 # Current Projects:
 [Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
+<br>
+
+# Some pics:<br>
+CCDC 2022 - Made it all the way to regionals! (I'm 3 in from the left, with my thumbs up)
+![CCDC](![image](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png))
