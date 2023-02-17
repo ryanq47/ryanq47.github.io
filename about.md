@@ -9,3 +9,7 @@ title: About
 # Ryan Kleffman
 
 Hey there! I'm Ryan!
+
+
+# Purpose of this site
+My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I refrence myself...), most of it will be related to cyber, but some other oddities may slip in as well!
