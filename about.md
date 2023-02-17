@@ -16,4 +16,4 @@ My main goal here is to share cool discoveries, show off tools, or just do some 
 
 # Current Projects:
 [Logec-Attack (Name not final)](#): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
-<br> Rational for existance: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's getting there)
+<br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's getting there)
