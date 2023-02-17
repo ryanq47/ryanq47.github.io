@@ -16,5 +16,5 @@ My main goal here is to share cool discoveries, show off tools, or just do some 
 If you're looking for my resume, click here: (Add In resume link)
 
 # Current Projects:
-[Logec-Attack (Name not final)]([#](https://github.com/ryanq47/logec-suite)): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
+[Logec-Attack (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
