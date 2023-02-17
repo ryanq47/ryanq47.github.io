@@ -21,5 +21,6 @@ If you're looking for my resume, click here: (Add In resume link)
 <br>
 
 # Some pics:<br>
-CCDC 2022 - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! (I'm 3 in from the left, with my thumbs up) <br> <br>
-![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png)
+CCDC 2022 - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + Matt MCcullough for coaching us <br> <br>
+![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png) <br>
+(I'm 3 in from the left, with my thumbs up)
