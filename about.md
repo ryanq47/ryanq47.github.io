@@ -12,7 +12,8 @@ Hey there! I'm Ryan!
 
 
 # Purpose of this site
-My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well!
+My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
+If you're looking for my resume, click here: (Add In resume link)
 
 # Current Projects:
 [Logec-Attack (Name not final)](#): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
