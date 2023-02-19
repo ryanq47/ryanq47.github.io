@@ -1,7 +1,5 @@
 
-Hey there! <br>
-
-In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
+Hey there! In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
 Layout:
 Each tool has a table, with links to relevant resources, and of course the tool itself. I imagine this guide will be pretty long, so CTRL + F to search for the tool you need. <br>
 
@@ -11,8 +9,8 @@ Last but not least, this is a living document, parts of this guide will change a
 ~ryanq47
 
 ## Password Cracking
----
-Intro
+--- <br>
+Save for OSINT, password cracking is my favorite NCL category - I mean what's cooler than going full  hacker mode and cracking passwords?! Getting back on track, there are a variety of great password cracking tools, both locally, and online. 
 
 
 #### __Crackstation:__
