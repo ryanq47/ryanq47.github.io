@@ -17,14 +17,13 @@ No, I'm not kididng. Google will be your best friend for anything OSINT.
 | ------ | ------ |
 |Google | [Google](https://google.com) |
 | __Writeups__ ||
-| "Google Dorking: A guide for hackers & pentesters" | [HTB Google Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking)|
+| *"Google Dorking: A guide for hackers & pentesters"* | [HTB Google Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking)|
 | __Additional resources__ | |
 | Google Dorking DB | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) |
 <br>
 
 #### __ChatGPT:__
-ChatGPT's data may be from 2021, but it still has a ton of relevant information. In essence, it's a better way to Google. If you are a lucky enough to get access to BingChat, then I'd use that, as it can actively search the internet. (Pro tip, set [Edge as your default browser to speed up the wait](edge://settings/defaultBrowser)) <br>
-<br>
+ChatGPT's data may be from 2021, but it still has a ton of relevant information. In essence, it's a better way to Google. If you are a lucky enough to get access to BingChat, then I'd use that, as it can actively search the internet. (Pro tip, set [Edge as your default browser to speed up the wait](edge://settings/defaultBrowser)) <br> <br>
 It is important to realize that these tools aren't always accurate, it can't hurt to verify the information if possible. 
 <br>
 
@@ -54,7 +53,7 @@ Cons:
 | ------ | ------ |
 |Crackstation | [CrackStation](https://crackstation.net/) |
 | __Writeups__ | |
-| "Salted Password Hashing - Doing it Right" | [Link](https://crackstation.net/hashing-security.htm) |
+| *"Salted Password Hashing - Doing it Right"* | [Link](https://crackstation.net/hashing-security.htm) |
 | __Files__ | |
 | Crackstation Wordlists | [Wordlist](https://crackstation.net/crackstation-wordlist-password-cracking-dictionary.htm)|
 
@@ -106,6 +105,7 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 | URL Encode/Decode | [urldecoder.org](https://www.urldecoder.org/)
 
 ---
+
 
 
 
