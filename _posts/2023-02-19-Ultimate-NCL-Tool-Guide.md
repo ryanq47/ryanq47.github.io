@@ -108,6 +108,3 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 
 ---
 
-
-
-[![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryanq47.github.io&count_bg=%2335B4DE&title_bg=%23555555&icon=&icon_color=%234897F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
