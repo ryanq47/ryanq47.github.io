@@ -10,7 +10,7 @@ Last but not least, this is a living document, parts of this guide will change a
 ## Open Source (OSINT)
 ---
 #### __Google:__
-No, I'm not kididng. Google will be your best friend for anything OSINT. <br>
+No, I'm not kididng. Google will be your best friend for anything OSINT. Google dorking serves as an excellent content filter, and allows you to find some really cool stuff. <br>
 
 
 | Site| Link|
@@ -107,9 +107,6 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 | URL Encode/Decode | [urldecoder.org](https://www.urldecoder.org/)
 
 ---
-
-
-
 
 
 
