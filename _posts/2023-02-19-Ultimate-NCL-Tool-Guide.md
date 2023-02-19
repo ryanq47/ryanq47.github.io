@@ -7,6 +7,28 @@ Last but not least, this is a living document, parts of this guide will change a
 [Register for NCL here](https://cyberskyline.com/events/ncl)<br><br>
 
 ~ryanq47
+## Open Source (OSINT)
+---
+#### __Google:__
+No, I'm not kididng. Google will be your best friend for anything OSINT.
+
+
+| Site| Link|
+| ------ | ------ |
+|Google | [Google](https://google.com) |
+| __Writeups__ ||
+| "Google Dorking: A guide for hackers & pentesters" | [HTB Google Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking)|
+| __Additional resources__ | |
+| Google Dorking DB | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) |
+<br>
+#### __ChatGPT:__
+ChatGPT's data may be from 2021, but it still has a ton of relevant information. In essence, it's a better way to Google. If you are a lucky enough to get access to BingChat, then I'd use that, as it can actively search the internet. (Pro tip, set [Edge as your default browser to speed up the wait](edge://settings/defaultBrowser)) <br>
+It is important to realize that these tools aren't always accurate, it can't hurt to verify the information if possible. 
+<br>
+| Site| Link|
+| ------ | ------ |
+|ChatGPT | [chat.openai.com](https://chat.openai.com/) |
+| BingChat Waitlist | [bing.com/new](https://www.bing.com/new)|
 
 ## Password Cracking
 --- <br>
@@ -81,5 +103,6 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 | URL Encode/Decode | [urldecoder.org](https://www.urldecoder.org/)
 
 ---
+
 
 [![View Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryanq47.github.io&count_bg=%2335B4DE&title_bg=%23555555&icon=&icon_color=%234897F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
