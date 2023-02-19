@@ -1,12 +1,14 @@
 
-Hey there! In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
+Hey there! 
+<br>
+In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
 Layout:
 Each tool has a table, with links to relevant resources, and of course the tool itself. I imagine this guide will be pretty long, so CTRL + F to search for the tool you need. <br>
 
 Last but not least, this is a living document, parts of this guide will change as I come across new tools and resources, so please check in often for any changes! Happy reading! <br>
 [Register for NCL here!](https://cyberskyline.com/events/ncl)<br><br>
-
 ~ryanq47
+<br>
 ## Open Source (OSINT)
 ---
 #### __Google:__
@@ -35,7 +37,8 @@ It is important to realize that these tools aren't always accurate, it can't hur
 | BingChat Waitlist | [bing.com/new](https://www.bing.com/new)|
 
 ## Password Cracking
---- <br>
+--- 
+<br>
 Save for OSINT, password cracking is my favorite NCL category - I mean what's cooler than going full  hacker mode and cracking passwords?! Getting back on track, there are a variety of great password cracking tools, both locally, and online. 
 
 
@@ -107,4 +110,3 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 | URL Encode/Decode | [urldecoder.org](https://www.urldecoder.org/)
 
 ---
-
