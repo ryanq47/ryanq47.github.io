@@ -4,7 +4,7 @@ Layout:
 Each tool has a table, with links to relevant resources, and of course the tool itself. I imagine this guide will be pretty long, so CTRL + F to search for the tool you need. <br>
 
 Last but not least, this is a living document, parts of this guide will change as I come across new tools and resources, so please check in often for any changes! Happy reading! <br>
-[Register for NCL here](https://cyberskyline.com/events/ncl)<br><br>
+[Register for NCL here!](https://cyberskyline.com/events/ncl)<br><br>
 
 ~ryanq47
 ## Open Source (OSINT)
@@ -20,10 +20,12 @@ No, I'm not kididng. Google will be your best friend for anything OSINT.
 | *"Google Dorking: A guide for hackers & pentesters"* | [HTB Google Dorking](https://www.hackthebox.com/blog/What-Is-Google-Dorking)|
 | __Additional resources__ | |
 | Google Dorking DB | [Google Hacking Database](https://www.exploit-db.com/google-hacking-database) |
+
 <br>
 
 #### __ChatGPT:__
-ChatGPT's data may be from 2021, but it still has a ton of relevant information. In essence, it's a better way to Google. If you are a lucky enough to get access to BingChat, then I'd use that, as it can actively search the internet. (Pro tip, set [Edge as your default browser to speed up the wait](edge://settings/defaultBrowser)) <br> <br>
+ChatGPT's data may be from 2021, but it still has a ton of relevant information. In essence, it's a better way to Google. If you are a lucky enough to get access to BingChat, then I'd use that, as it can actively search the internet. (Pro tip, set [Edge as your default browser to speed up the wait](edge://settings/defaultBrowser)) <br>
+
 It is important to realize that these tools aren't always accurate, it can't hurt to verify the information if possible. 
 <br>
 
@@ -105,6 +107,7 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 | URL Encode/Decode | [urldecoder.org](https://www.urldecoder.org/)
 
 ---
+
 
 
 
