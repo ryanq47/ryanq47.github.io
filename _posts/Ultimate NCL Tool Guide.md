@@ -3,7 +3,9 @@ Hey there! In honor of my favorite competition, NCL, I've put together an 'Ultim
 Layout:
 Each tool has a table, with links to relevant resources, and of course the tool itself. I imagine this guide will be pretty long, so CTRL + F to search for the tool you need. <br>
 
-Last but not least, this is a living document, parts of this guide will change as I come across new tools and resources, so please check in often for any changes! Happy reading! <br><br>
+Last but not least, this is a living document, parts of this guide will change as I come across new tools and resources, so please check in often for any changes! Happy reading! <br>
+(Register for NCL here)[https://cyberskyline.com/events/ncl]<br><br>
+
 ~ryanq47
 
 ## Password Cracking
