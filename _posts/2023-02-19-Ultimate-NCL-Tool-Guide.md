@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryanq47.github.io&count_bg=%233D29DD&title_bg=%23555555&icon=&icon_color=%234897F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
----
 
 Hey there! In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
 Layout:
@@ -84,4 +82,4 @@ Here's some additional tools I've used in a pinch, most of these are redundant, 
 
 ---
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fryanq47.github.io&count_bg=%233D29DD&title_bg=%23555555&icon=&icon_color=%234897F6&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
