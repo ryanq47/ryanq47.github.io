@@ -19,7 +19,7 @@ If you're looking for my resume, click here: (Add In resume link)
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
 
 
-# Current Projects:
+# Projects:
 [Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
