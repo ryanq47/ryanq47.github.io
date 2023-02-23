@@ -27,7 +27,7 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 <br>
 
 # Competitions:<br>
-<u>CCDC 2023 </u>: Fell a bit short and ended up in 4th at state, but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team trying to get us!
+CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team trying to get us!
 
 [CCDC 2022](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
 
