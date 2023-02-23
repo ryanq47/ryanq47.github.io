@@ -44,5 +44,5 @@ CCDC 2022 @ LSC (Virtual Event):<br>
 ![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png)
 (I'm 3 in from the left, with my thumbs up)
 <br><br>
-<u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC):<br><u><i>
+<u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC):<br></u></i>
 ![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
