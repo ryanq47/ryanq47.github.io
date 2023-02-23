@@ -18,6 +18,8 @@ If you're looking for my resume, click here: (Add In resume link)
 # Current Employment
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
 
+### [My Resume](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
+
 
 # Projects:
 [Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
