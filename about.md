@@ -25,10 +25,19 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 <br>
 
 # Competitions:<br>
-[CCDC 2022](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us <br> <br>
-![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png) <br>
-(I'm 3 in from the left, with my thumbs up)
-<br>
+CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team trying to get us!
+
+[CCDC 2022](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
+
 
 [NCL Fall 2022](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf)
 This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.
+
+
+# Pictures: <br>
+CCDC 2022 @ LSC (Virtual Event)
+![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png)
+(I'm 3 in from the left, with my thumbs up)
+<br>
+CCDC 2023 @ Alexandria Tech (First in person CCDC)
+![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
