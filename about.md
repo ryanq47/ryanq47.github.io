@@ -37,9 +37,12 @@ This was my 3rd NCL competition, and also my best (205th out of 6675!). I've att
 
 
 # Pictures: <br>
-<u>_CCDC 2022 @ LSC (Virtual Event):_</u><br>
+<u><i>
+CCDC 2022 @ LSC (Virtual Event):<br>
+</u></i>
+
 ![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png)
 (I'm 3 in from the left, with my thumbs up)
 <br>
-<u>_CCDC 2023 @ Alexandria Tech (First in person CCDC):_ </u><br>
+<u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC):<u><i><br>
 ![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
