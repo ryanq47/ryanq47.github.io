@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "NCL Tool Guide, Tips, and Tricks"
