@@ -26,6 +26,8 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 
 
 # Projects:
+I have a fair amount of POC projects throughout my github, but these are the one's I feel are a bit more up to par, and ready to be shared!
+
 [Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
