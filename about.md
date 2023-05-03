@@ -13,7 +13,7 @@ Hey there! I'm Ryan!
 
 # Purpose of this site
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
-If you're looking for my resume, click here: (Add In resume link)
+If you're looking for my resume, click [here](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 # Current Employment & Education
 #### Education: <br>
@@ -22,7 +22,7 @@ I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior 
 #### Employment: <br>
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
 
-#### [Access my Resume](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
+#### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 
 # Projects:
@@ -31,6 +31,8 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 <br>
 
 # Competitions:<br>
+I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
+
 CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team trying to get us!
 
 [CCDC 2022](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
@@ -38,7 +40,12 @@ CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a bla
 
 [NCL Fall 2022](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf)
 This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.
+![image](https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png)
 
+
+[NCL Spring Team Game 2023]
+Unfortunently I missed out on the spring Individual game due to cancelled flights during a vacation (a story for a different time). Luckily, our team buckled down for the Team Game, and we got 70th of 316!
+Breakdown is attached [here](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) as well.
 
 # Pictures: <br>
 <u><i>
