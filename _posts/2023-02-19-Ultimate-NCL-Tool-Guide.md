@@ -1,4 +1,12 @@
 
+---
+layout: post
+title: "NCL Tool Guide, Tips, and Tricks"
+date: 2023-02-19
+tags: Competition, NCL, Tools
+description: NCL Guide!
+---
+
 Hey there! 
 <br>
 In honor of my favorite competition, NCL, I've put together an 'Ultimate Tool Guide'.  My goal is to provide a one stop shop to learn about/access some amazing tools, but not provide any direct answers for the competition. <br>
