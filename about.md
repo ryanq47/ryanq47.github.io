@@ -43,9 +43,9 @@ This was my 3rd NCL competition, and also my best (205th out of 6675!). I've att
 
 <img src="https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png" alt="NCL Badge Individual Game" width="250"/>
 
-[NCL Spring Team Game 2023]
+[NCL Spring Team Game 2023](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf)
 Unfortunently I missed out on the spring Individual game due to cancelled flights during a vacation (a story for a different time). Luckily, our team buckled down for the Team Game, and we got 70th of 316!
-Breakdown is attached [here](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) as well.
+Breakdown is attached in the title as well.
 
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
 
