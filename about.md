@@ -41,7 +41,7 @@ CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a bla
 [NCL Fall 2022](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf)
 This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.
 
-![image](https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png)
+![image](https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png | width=100)
 
 
 [NCL Spring Team Game 2023]
