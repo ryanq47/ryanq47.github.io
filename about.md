@@ -17,8 +17,8 @@ If you're looking for my resume, click [here](https://github.com/ryanq47/resume/
 
 # Current Employment & Education
 #### Education: <br>
-I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps.
-[LSC Program Info]((https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf))
+I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps. <br>
+[LSC Program Info](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
 
 #### Employment: <br>
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
