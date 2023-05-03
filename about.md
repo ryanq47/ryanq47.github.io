@@ -11,7 +11,7 @@ title: About
 Hey there! I'm Ryan!
 
 
-# Purpose of this site
+<u> # Purpose of this site </u>
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
 If you're looking for my resume, click [here](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
