@@ -2,7 +2,7 @@
 layout: post
 title: "NCL Tool Guide, Tips, and Tricks"
 date: 2023-02-19
-tags: Competition, NCL, Tools
+tags: Competition NCL Tools
 description: NCL Guide!
 ---
 
