@@ -6,6 +6,9 @@ tags: jekyll
 description: Here I want to introduce you the dark theme for Jekyll.
 ---
 
+Credit to streetturlte for this amazing theme, I'm leaving this init post in here so others can easily use this theme as well!
+
+
 Here is a sample post for Jekyll-Clean-Dark theme. 
 
 * get it from [github](https://github.com/streetturtle/jekyll-clean-dark)
