@@ -3,7 +3,7 @@ layout: post
 title: "Jekyll Dark Clean Theme"
 date: 2016-12-01 16:25:06
 tags: jekyll
-description: Here I want to introduce you the dark theme for Jekyll.
+description: Jekyll Theme Information
 ---
 
 Credit to streetturlte for this amazing theme, I'm leaving this init post in here so others can easily use this theme as well!
