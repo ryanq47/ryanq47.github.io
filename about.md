@@ -10,9 +10,9 @@ title: About
 
 Hey there! I'm Ryan!
 
-Contact me at: <br>
-ryankleffman47@gmail.com <br>
-[Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) <br>
+Contact me at:
+ryankleffman47@gmail.com
+[Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
 
 # Purpose of this site
@@ -27,7 +27,7 @@ I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior 
 #### Employment: <br>
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
 
-#### Access my [Resume](https://github.com/ryanq47/resume/blob/main/Kleffman-Ryan-Resume.pdf) & [Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman-Ryan-CoverLetter.pdf)
+#### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 
 # Projects:
@@ -36,6 +36,9 @@ I have a fair amount of POC projects throughout my github, but these are the one
 [Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
+
+HackTheBox:
+In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
 
 # Competitions:<br>
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
