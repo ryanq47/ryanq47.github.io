@@ -27,7 +27,7 @@ I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior 
 #### Employment: <br>
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
 
-#### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
+#### Access my [Resume](https://github.com/ryanq47/resume/blob/main/Kleffman-Ryan-Resume.pdf) & [Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman-Ryan-CoverLetter.pdf)
 
 
 # Projects:
