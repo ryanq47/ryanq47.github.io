@@ -10,9 +10,9 @@ title: About
 
 Hey there! I'm Ryan!
 
-Contact me at:
-ryankleffman47@gmail.com
-[Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
+Contact me at: <br>
+ryankleffman47@gmail.com <br>
+[Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) <br>
 
 
 # Purpose of this site
