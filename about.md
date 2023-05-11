@@ -41,7 +41,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <h4>Employment:</h4>
 <p>After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration (In English, Windows Controls). However, I've been drifting into Threat Hunting when I get time, and when allowed to, poking around our AD environment.</p>
-<p><a href="https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf">Access my Resume & Cover Letter</a></p>
+<p><a href="https://github.com/ryanq47/resume" target="_blank">Access my Resume & Cover Letter</a></p>
 
 </details>
 <br>
