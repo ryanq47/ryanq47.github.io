@@ -17,9 +17,10 @@ ryankleffman47@gmail.com
 ### Table Of Contents
 | Item | Link | 
 | -------- | -------- | 
-| Item 1 | [employment](#employment) |
+| Item 1 |  |
 | Item 4 | Item 5 | 
 
+- [employment](#employment)
 
 # Purpose of this site
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
