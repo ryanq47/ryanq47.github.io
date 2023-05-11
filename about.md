@@ -37,13 +37,13 @@ I have a fair amount of POC projects throughout my GitHub, but these are the one
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
 
- <u> ** Hack The Box: ** </u> 
+** Hack The Box: ** 
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
 
 # Competitions:<br>
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
 
-<u> **CCDC 2023**</u>: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
+**CCDC 2023**: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
 
 [**CCDC 2022:**](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
 
