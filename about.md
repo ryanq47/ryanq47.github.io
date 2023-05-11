@@ -24,7 +24,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 ## Contact Me
 
-| Platform | Resource 4|
+| Platform | Resource 5|
 |---|---|
 | Email | ryankleffman47@gmail.com |
 | Linkedin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
@@ -46,16 +46,14 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <details>
 <summary>Expand for Education & Employment!</summary>
 
- <p3><b> Education </b></p3>
+<h4>Education</h4>
+<br>
+<p>I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll graduate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps</p>
+<p><a href="https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf">LSC Course Overview</a></p>
 
-I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps
-[LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
-
- #### Employment:
-
-After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration (In English, Windows Controls). However, I've been drifting into Threat Hunting when I get time, and when allowed to, poking around our AD environment. 
-
-#### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
+<h4>Employment:</h4>
+<p>After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration (In English, Windows Controls). However, I've been drifting into Threat Hunting when I get time, and when allowed to, poking around our AD environment.</p>
+<p><a href="https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf">Access my Resume & Cover Letter</a></p>
 
 </details>
 
