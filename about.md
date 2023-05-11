@@ -20,40 +20,40 @@ My main goal here is to share cool discoveries, show off tools, or just do some 
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
 
 # Current Employment & Education
-#### Education: <br>
+#### <u> Education: </u> <br>
 I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps. <br>
 [LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
 
-#### Employment: <br>
-After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration. However, I've been drifting into Threat Hunting when I get time, which has been a tough, but incredibly exciting experience so far. 
+####  <u>  Employment:  <u> <br>
+After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration (In English, Windows Controls). However, I've been drifting into Threat Hunting when I get time, and when allowed to, poking around our AD environment. 
 
 #### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 
 # Projects:
-I have a fair amount of POC projects throughout my github, but these are the one's I feel are a bit more up to par, and ready to be shared!
+I have a fair amount of POC projects throughout my GitHub, but these are the one's I feel are a bit more up to par, and ready to be shared!
 
-[Logec-Suite (Name not final)](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
+[**Logec-Suite**](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
 
-<u> _HackTheBox:_ </u>
+<u> **Hack The Box:** </u>
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
 
 # Competitions:<br>
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
 
-CCDC 2023: Fell a bit short and ended up in 4th at state, but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team trying to get us!
+<u> **CCDC 2023**</u>: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
 
-[CCDC 2022](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
+[**CCDC 2022:**](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
 
 
-[NCL Fall 2022](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
+[**NCL Fall 2022**](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
 This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.
 
 <img src="https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png" alt="NCL Badge Individual Game" width="250"/>
 
-[NCL Spring Team Game 2023](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
+[**NCL Spring Team Game 2023**](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
 Unfortunently I missed out on the spring Individual game due to cancelled flights during a vacation (a story for a different time). Luckily, our team buckled down for the Team Game, and we got 70th of 316!
 Breakdown is attached in the title as well.
 
