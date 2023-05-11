@@ -24,7 +24,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 ## Contact Me
 
-| Platform | Resource 3|
+| Platform | Resource 4|
 |---|---|
 | Email | ryankleffman47@gmail.com |
 | Linkedin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
@@ -46,9 +46,9 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <details>
 <summary>Expand for Education & Employment!</summary>
 
- <p4> Education </p4>
+ <p3><b> Education </b></p3>
 
-{{ "I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps" | markdownify }}
+I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps
 [LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
 
  #### Employment:
