@@ -46,6 +46,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <p><a href="https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf">Access my Resume & Cover Letter</a></p>
 
 </details>
+<br>
 
 ## Projects
 <details><summary>Expand for Projects</summary>
@@ -59,7 +60,8 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 In my free time, I get a kick out of working through machines on HTB. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
 </ul>
 </details>
- 
+<br>
+
 ## Competitions
  <details><summary>Expand for Competitions </summary>
   
@@ -76,6 +78,7 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
   
 </details>
+<br>
 
 ## Pictures
 <details><summary>Expand for Pictures</summary>
