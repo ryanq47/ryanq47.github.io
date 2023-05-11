@@ -47,7 +47,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <br>
 
 ## Projects
-<details><summary>Expand for Projects</summary>
+<details><summary>Click Me</summary>
  
 <h4>Projects:</h4>
 <p>I have a fair amount of POC projects throughout my GitHub, but these are the ones I feel are a bit more up to par and ready to be shared!</p>
@@ -61,7 +61,7 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 <br>
 
 ## Competitions
- <details><summary>Expand for Competitions </summary>
+<details><summary>Click Me</summary>
   
 <p>I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.</p>
 <h4>CCDC 2023</h4>
@@ -79,7 +79,7 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 <br>
 
 ## Pictures
-<details><summary>Expand for Pictures</summary>
+<details><summary>Click Me</summary>
 
 <p><u><i>
 CCDC 2022 @ LSC (Virtual Event):<br>
