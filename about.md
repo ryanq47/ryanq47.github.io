@@ -41,6 +41,7 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
  </details>
 
 ## Projects
+<details><summary>Expand for Projects</summary>
 I have a fair amount of POC projects throughout my GitHub, but these are the one's I feel are a bit more up to par, and ready to be shared!
 
 [**Logec-Suite**](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
@@ -48,8 +49,10 @@ I have a fair amount of POC projects throughout my GitHub, but these are the one
 
 [**Hack The Box:**](https://app.hackthebox.com/profile/1132712)
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
-
+ </details>
+ 
 ## Competitions
+ <details><summary>Expand for Competitions </summary>
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
 
 **CCDC 2023**: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
@@ -67,9 +70,12 @@ Unfortunently I missed out on the spring Individual game due to cancelled flight
 Breakdown is attached in the title as well.
 
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
-
+ </details>
 
 ## Pictures
+<details><summary>Expand for Pictures</summary>
+
+ 
 <u><i>
 CCDC 2022 @ LSC (Virtual Event):<br>
 </u></i>
@@ -80,3 +86,5 @@ CCDC 2022 @ LSC (Virtual Event):<br>
 <u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC): </u></i> <br>
 
  ![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
+ 
+ </details>
