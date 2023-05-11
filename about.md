@@ -66,7 +66,7 @@ Breakdown is attached in the title as well.
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
 
 
-# Pictures: <br>
+## Pictures
 <u><i>
 CCDC 2022 @ LSC (Virtual Event):<br>
 </u></i>
