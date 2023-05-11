@@ -16,7 +16,7 @@ ryankleffman47@gmail.com
 
 ### Table Of Contents
 [Education & Employment](#education)
-- [test](#competitions)
+[Personal Projects](#projects)
 
 ## Title
 
@@ -48,7 +48,7 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 #### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 
-## Projects:
+## Projects
 I have a fair amount of POC projects throughout my GitHub, but these are the one's I feel are a bit more up to par, and ready to be shared!
 
 [**Logec-Suite**](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
