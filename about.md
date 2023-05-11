@@ -30,6 +30,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 ## Education
 <details><summary>Expand for Education & Employment!</summary>
+ 
 #### <u> Education: </u> <br>
 I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps. <br>
 [LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
@@ -42,6 +43,7 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 
 ## Projects
 <details><summary>Expand for Projects</summary>
+ 
 I have a fair amount of POC projects throughout my GitHub, but these are the one's I feel are a bit more up to par, and ready to be shared!
 
 [**Logec-Suite**](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
@@ -53,6 +55,7 @@ In my freetime, I get a kick out of working through machines on HTB. Hands on is
  
 ## Competitions
  <details><summary>Expand for Competitions </summary>
+  
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
 
 **CCDC 2023**: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
