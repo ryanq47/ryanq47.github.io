@@ -15,11 +15,6 @@ ryankleffman47@gmail.com
 [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
 ### Table Of Contents
-| Item | Link | 
-| -------- | -------- | 
-| Item 1 |  |
-| Item 4 | Item 5 | 
-
 - [employment](#employment)
 - [test](#competitions)
 
