@@ -10,20 +10,23 @@ title: About
 
 Hey there! I'm Ryan!
 
-Contact me at:
-ryankleffman47@gmail.com
-[Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
-
 ## Table Of Contents
 [Education & Employment](#education) <br>
 [Personal Projects](#projects)  <br>
 [Competitions](#competitions)  <br>
 [Pictures](#pictures)  <br>
+[Contact Me](#contact-me)
 
 
 ## Purpose of this site
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
+
+## Contact Me
+|Platform|Column 2|
+|---|---|---|
+| Email | ryankleffman47@gmail.com |
+| Linkdin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
 
 ## Education
 #### <u> Education: </u> <br>
