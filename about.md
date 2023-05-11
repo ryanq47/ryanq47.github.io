@@ -52,10 +52,10 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <h4>Projects:</h4>
 <p>I have a fair amount of POC projects throughout my GitHub, but these are the ones I feel are a bit more up to par and ready to be shared!</p>
 <ul>
-    <li><a href="https://github.com/ryanq47/logec-suite">Logec-Suite</a>: A GUI-based, offensive-based Swiss army knife of tools. Rational for existence: I wanted to create a tool mainly to challenge myself and figure out how other tools are created. The motto for the project is, "It's not the fastest or the best, but it's damn convenient" (or at least it's supposed to be... it's a work in progress).</li>
+    <li><a href="https://github.com/ryanq47/logec-suite" target="_blank">Logec-Suite</a>: A GUI-based, offensive-based Swiss army knife of tools. Rational for existence: I wanted to create a tool mainly to challenge myself and figure out how other tools are created. The motto for the project is, "It's not the fastest or the best, but it's damn convenient" (or at least it's supposed to be... it's a work in progress).</li>
 
 
-<li><a href="https://app.hackthebox.com/profile/1132712">Hack The Box</a>: 
+<li><a href="https://app.hackthebox.com/profile/1132712" target="_blank">Hack The Box</a>: 
 HTB isn't exactly a project, but it's something I enjoy doing in my free time. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
 </ul>
 </details>
@@ -84,7 +84,7 @@ HTB isn't exactly a project, but it's something I enjoy doing in my free time. H
 
  
 
-<p><u><i> <a href="https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw"> CCDC 2022 @ LSC (Virtual Event): </a></i>
+<p><u><i> <a href="https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw" target="_blank"> CCDC 2022 @ LSC (Virtual Event): </a></i>
 
 
 <p><img src="https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png" alt="CCDC" width="500"></p>
