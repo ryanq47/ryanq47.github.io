@@ -29,7 +29,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 | Email | ryankleffman47@gmail.com |
 | Linkedin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
 
-<br>
+<br><br>
 
 ## Education
 <details><summary>Expand for Education & Employment!</summary>
