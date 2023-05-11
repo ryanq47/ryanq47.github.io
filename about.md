@@ -16,9 +16,9 @@ ryankleffman47@gmail.com
 
 ### Table Of Contents
 [Education & Employment](#education) <br>
-[Personal Projects](#projects)
-[Competitions](#competitions)
-[Pictures](#pictures)
+[Personal Projects](#projects)  <br>
+[Competitions](#competitions)  <br>
+[Pictures](#pictures)  <br>
 
 
 # Purpose of this site
