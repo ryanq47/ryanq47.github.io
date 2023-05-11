@@ -23,6 +23,7 @@ My main goal here is to share cool discoveries, show off tools, or just do some 
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
 
 ## Contact Me
+
 | Platform | Resource |
 |---|---|
 | Email | ryankleffman47@gmail.com |
