@@ -14,9 +14,10 @@ Contact me at:
 ryankleffman47@gmail.com
 [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
+### Table Of Contents
 | Item | Link | 
 | -------- | -------- | 
-| Item 1 | Item 2 |
+| Item 1 | [employment](#employment) |
 | Item 4 | Item 5 | 
 
 
@@ -24,7 +25,7 @@ ryankleffman47@gmail.com
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
 
-# Current Employment & Education
+# [Current Employment & Education](#employment)
 #### <u> Education: </u> <br>
 I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps. <br>
 [LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
