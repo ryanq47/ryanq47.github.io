@@ -48,7 +48,7 @@ After a successful internship, I was brought on by the Minnesota Judicial Branch
 #### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
 
 
-# Projects:
+## Projects:
 I have a fair amount of POC projects throughout my GitHub, but these are the one's I feel are a bit more up to par, and ready to be shared!
 
 [**Logec-Suite**](https://github.com/ryanq47/logec-suite): A GUI based, offensive based swiss army knife of tools (Mouthful, I know). 
@@ -58,7 +58,7 @@ I have a fair amount of POC projects throughout my GitHub, but these are the one
 [**Hack The Box:**](https://app.hackthebox.com/profile/1132712)
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
 
-# Competitions: <br>
+## Competitions: <br>
 I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
 
 **CCDC 2023**: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
