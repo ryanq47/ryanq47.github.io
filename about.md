@@ -66,7 +66,7 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 <p>I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.</p>
 <h4>CCDC 2023</h4>
 <p>I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event.</p>
-<h4> <a "href=https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw">CCDC 2022</a> </h4>
+<h4>CCDC 2022</h4>
 <p>Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + <a href="https://www.linkedin.com/in/mattmcflymccullough">Matt McCullough</a> for coaching us (see picture below!)</p>
 <h4>NCL Fall 2022</h4>
 <p>This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.</p>
@@ -78,12 +78,15 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 </details>
 <br>
 
-## Pictures
+## Pictures and Articles
 <details><summary>Click Me</summary>
 
+ 
+
 <p><u><i>
-CCDC 2022 @ LSC (Virtual Event):<br>
+<a href="https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw"> CCDC 2022 @ LSC (Virtual Event): </a> <br>
 </u></i></p>
+
 
 <p><img src="https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png" alt="CCDC" width="500"></p>
 
