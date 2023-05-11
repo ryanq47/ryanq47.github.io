@@ -64,23 +64,18 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 ## Competitions
  <details><summary>Expand for Competitions </summary>
   
-I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.
-
-**CCDC 2023**: I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event. 
-
-[**CCDC 2022:**](https://myemail.constantcontact.com/LSC-Campus-Newsletter.html?soid=1131343712425&aid=8W5lR0WoHhw) - Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + [Matt McCullough](https://www.linkedin.com/in/mattmcflymccullough) for coaching us (see picture below!) <br> <br>
-
-
-[**NCL Fall 2022**](https://github.com/ryanq47/resume/blob/main/Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
-This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.
-
+<p>I've competed in many competitions so far, with NCL being my absolute favorite. However, I have to give props to those who run CCDC, as they've allowed us to face a realistic red-team, gaining invaluable experience.</p>
+<h4>CCDC 2023</h4>
+<p>I became to President of the club, and we ended up falling a bit short at state (4th place), but it was still a blast! Got to meet a lot of new people, plus have a former co-worker on the red team during the event.</p>
+<h4>CCDC 2022:</h4>
+<p>Made it all the way to regionals! Props to everyone who was on that team for helping to get us there! + <a href="https://www.linkedin.com/in/mattmcflymccullough">Matt McCullough</a> for coaching us (see picture below!)</p>
+<h4>NCL Fall 2022</h4>
+<p>This was my 3rd NCL competition, and also my best (205th out of 6675!). I've attached my score report for a more in depth breakdown of the competition.</p>
 <img src="https://user-images.githubusercontent.com/91687869/235812583-56dc13f4-6587-48e0-9600-cafce2f2daf3.png" alt="NCL Badge Individual Game" width="250"/>
-
-[**NCL Spring Team Game 2023**](https://github.com/ryanq47/resume/blob/main/NCL%20Team%202023%20Ryan%20Kleffman%20-%20Cyber%20Skyline%20Report.pdf) - 
-Unfortunently I missed out on the spring Individual game due to cancelled flights during a vacation (a story for a different time). Luckily, our team buckled down for the Team Game, and we got 70th of 316!
-Breakdown is attached in the title as well.
-
+<h4>NCL Spring Team Game 2023</h4>
+<p>Unfortunently I missed out on the spring Individual game due to cancelled flights during a vacation (a story for a different time). Luckily, our team buckled down for the Team Game, and we got 70th of 316! Breakdown is attached in the title as well.</p>
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
+  
 </details>
 
 ## Pictures
