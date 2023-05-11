@@ -15,7 +15,7 @@ ryankleffman47@gmail.com
 [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
 ### Table Of Contents
-[Education & Employment](#education)
+[Education & Employment](#education) <br>
 [Personal Projects](#projects)
 
 ## Title
