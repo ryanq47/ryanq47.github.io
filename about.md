@@ -57,8 +57,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <li><a href="https://app.hackthebox.com/profile/1132712">Hack The Box</a>: 
 In my free time, I get a kick out of working through machines on HTB. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
- <ul>
-
+</ul>
 </details>
  
 ## Competitions
@@ -81,16 +80,15 @@ In my free time, I get a kick out of working through machines on HTB. Hands-on i
 ## Pictures
 <details><summary>Expand for Pictures</summary>
 
- 
-<u><i>
+<p><u><i>
 CCDC 2022 @ LSC (Virtual Event):<br>
-</u></i>
+</u></i></p>
 
-![CCDC](https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png)
-(I'm 3 in from the left, with my thumbs up)
-<br><br>
-<u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC): </u></i> <br>
+<p><img src="https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png" alt="CCDC" width="500"></p>
 
- ![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
+<p><u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC): </u></i></p>
+
+<p><img src="https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg" alt="CCDC2023" width="500"></p>
+
  
 </details>
