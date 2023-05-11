@@ -18,20 +18,7 @@ ryankleffman47@gmail.com
 [Education & Employment](#education) <br>
 [Personal Projects](#projects)
 [Competitions](#competitions)
-
-## Title
-
-### Place 11
-
-Hello, this is some text to fill in this, [here](#current-employment-&-education), is a link to the second place.
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back .
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
+[Pictures](#pictures)
 
 
 # Purpose of this site
