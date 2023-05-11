@@ -37,7 +37,7 @@ I have a fair amount of POC projects throughout my github, but these are the one
 <br> Rational for existence: I wanted to create a tool, mainly to challenge myself, and figure out how other tools are created. The motto for the project is, "It's not the fastest, or the best, but it's damn convenient". (Or at least it's supposed to be... it's a work in progress)
 <br>
 
-HackTheBox:
+<u> _HackTheBox:_ </u>
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
 
 # Competitions:<br>
