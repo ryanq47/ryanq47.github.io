@@ -39,7 +39,7 @@ I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior 
 After a successful internship, I was brought on by the Minnesota Judicial Branch as a SOC analyst, primarily working on secure configuration (In English, Windows Controls). However, I've been drifting into Threat Hunting when I get time, and when allowed to, poking around our AD environment. 
 
 #### [Access my Resume & Cover Letter](https://github.com/ryanq47/resume/blob/main/Kleffman_Ryan_LSC.pdf)
- </details>
+</details>
 
 ## Projects
 <details><summary>Expand for Projects</summary>
@@ -51,7 +51,7 @@ I have a fair amount of POC projects throughout my GitHub, but these are the one
 
 [**Hack The Box:**](https://app.hackthebox.com/profile/1132712)
 In my freetime, I get a kick out of working through machines on HTB. Hands on is how I learn best, plus I kind of really enjoy the puzzles. On a more practical side, I gain some great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e. Logec. 
- </details>
+</details>
  
 ## Competitions
  <details><summary>Expand for Competitions </summary>
@@ -73,7 +73,7 @@ Unfortunently I missed out on the spring Individual game due to cancelled flight
 Breakdown is attached in the title as well.
 
 <img src="https://user-images.githubusercontent.com/91687869/235813132-97a9860f-f023-46ee-a0c6-b20306c82814.png" alt="NCL Badge Team Game" width="250"/>
- </details>
+</details>
 
 ## Pictures
 <details><summary>Expand for Pictures</summary>
@@ -90,4 +90,4 @@ CCDC 2022 @ LSC (Virtual Event):<br>
 
  ![CCDC2023](https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg)
  
- </details>
+</details>
