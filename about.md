@@ -31,10 +31,10 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <br><br>
 
-## Education
+
 
 <details>
-<summary>Expand for Education & Employment!</summary>
+<summary>## Education</summary>
 
 <h4>Education</h4>
 <br>
