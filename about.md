@@ -31,8 +31,6 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <br><br>
 
-
-
 <details><summary><h2> Education </h2></summary>
 
 <h4>Education</h4>
