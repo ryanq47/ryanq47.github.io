@@ -14,7 +14,7 @@ Hey there! I'm Ryan!
 - [Education & Employment](#education-and-employment)
 - [Personal Projects](#projects)
 - [Competitions](#competitions)
-- [Pictures](#pictures)
+- [Pictures](#pictures-and-articles)
 - [Contact Me](#contact-me)
 
 
