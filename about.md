@@ -89,9 +89,7 @@ HTB isn't exactly a project, but it's something I enjoy doing in my free time. H
 
 <p><img src="https://user-images.githubusercontent.com/91687869/219814988-165814d3-cbb0-4d09-8716-26f3f6a65363.png" alt="CCDC" width="500"></p>
 
-<p><u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC): </u></i></p>
+ <p><u><i>CCDC 2023 @ Alexandria Tech (First in person CCDC): </i>
 
 <p><img src="https://cdn.discordapp.com/attachments/1032499190053474394/1072550303204917368/Lake_Superior_Tam_10.jpg" alt="CCDC2023" width="500"></p>
 
- 
-</details>
