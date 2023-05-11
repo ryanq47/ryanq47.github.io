@@ -32,7 +32,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <br><br>
 
 ## Education
-<details><summary>Expand for Education & Employment!</summary>
+<details><summary>Expand for Education & Employment! test</summary>
  
 #### **Education:**
 <br>
