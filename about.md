@@ -37,7 +37,7 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
 
-### Current Employment & Education
+### Place 1
 #### <u> Education: </u> <br>
 I am currently finishing up a Networking and CyberSecurity AAS at Lake Superior College. I'll gradutate in May, and I am enrolled at Dakota State University to finish out a Bachelor's degree in CyberOps. <br>
 [LSC Course Overview](https://github.com/ryanq47/resume/blob/main/LSC-Net%26CybSec-Program-AAS.pdf)
