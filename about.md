@@ -56,7 +56,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 
 <li><a href="https://app.hackthebox.com/profile/1132712">Hack The Box</a>: 
-HTB isn't exaclty a project, but it's something I enjoy doing in my free time. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
+HTB isn't exactly a project, but it's something I enjoy doing in my free time. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
 </ul>
 </details>
 <br>
