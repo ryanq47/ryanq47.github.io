@@ -14,14 +14,14 @@ Contact me at:
 ryankleffman47@gmail.com
 [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
-### Table Of Contents
+## Table Of Contents
 [Education & Employment](#education) <br>
 [Personal Projects](#projects)  <br>
 [Competitions](#competitions)  <br>
 [Pictures](#pictures)  <br>
 
 
-# Purpose of this site
+## Purpose of this site
 My main goal here is to share cool discoveries, show off tools, or just do some guides (usually that I reference myself...), most of it will be related to cyber, but some other oddities may slip in as well! <br>
 If you're looking for my resume, certifications, etc, click [here](https://github.com/ryanq47/resume/tree/main)
 
