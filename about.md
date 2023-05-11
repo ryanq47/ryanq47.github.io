@@ -11,11 +11,11 @@ title: About
 Hey there! I'm Ryan! 
 
 ## Table Of Contents
-[Education & Employment](#education-and-employment) <br>
-[Personal Projects](#projects)  <br>
-[Competitions](#competitions)  <br>
-[Pictures](#pictures)  <br>
-[Contact Me](#contact-me)
+- [Education & Employment](#education-and-employment)
+- [Personal Projects](#projects)
+- [Competitions](#competitions)
+- [Pictures](#pictures)
+- [Contact Me](#contact-me)
 
 
 ## Purpose of this site
