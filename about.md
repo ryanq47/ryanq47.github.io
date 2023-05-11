@@ -46,7 +46,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 </details>
 <br>
 
-## Projects and beyond
+## Projects and Freetime
 <details><summary>Click Me</summary>
  
 <h4>Projects:</h4>
@@ -54,11 +54,9 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 <ul>
     <li><a href="https://github.com/ryanq47/logec-suite">Logec-Suite</a>: A GUI-based, offensive-based Swiss army knife of tools. Rational for existence: I wanted to create a tool mainly to challenge myself and figure out how other tools are created. The motto for the project is, "It's not the fastest or the best, but it's damn convenient" (or at least it's supposed to be... it's a work in progress).</li>
 
- 
-<p> I didn't quite know where to place HTB and similar platforms, so it's going here <p> 
 
 <li><a href="https://app.hackthebox.com/profile/1132712">Hack The Box</a>: 
-In my free time, I get a kick out of working through machines on HTB. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
+HTB isn't exaclty a project, but it's something I enjoy doing in my free time. Hands-on is how I learn best, plus I really enjoy the puzzles. On a more practical side, I gain great insight into what makes certain tools work well/not well, and then I can apply that knowledge to my own tools, i.e., Logec.</li>
 </ul>
 </details>
 <br>
