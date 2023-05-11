@@ -31,16 +31,6 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <br><br>
 
-<details open>
-<summary>Shopping list</summary>
-
-* Vegetables
-* Fruits
-* Fish
-
-</details>
-
-
 ## Education
 
 <details>
