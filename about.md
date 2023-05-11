@@ -15,7 +15,7 @@ ryankleffman47@gmail.com
 [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) 
 
 ### Table Of Contents
-[employment](#current-employment-&-education)
+[Education & Employment](#education)
 - [test](#competitions)
 
 ## Title
@@ -26,7 +26,7 @@ Hello, this is some text to fill in this, [here](#current-employment-&-education
 
 ### Place 2
 
-Place one has the fun times of linking here, but I can also link back [here](#education).
+Place one has the fun times of linking here, but I can also link back .
 
 ### Place's 3: other example
 
