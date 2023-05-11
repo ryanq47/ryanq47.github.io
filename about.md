@@ -11,7 +11,7 @@ title: About
 Hey there! I'm Ryan! 
 
 ## Table Of Contents
-[Education & Employment](#education) <br>
+[Education & Employment](#education-and-employment) <br>
 [Personal Projects](#projects)  <br>
 [Competitions](#competitions)  <br>
 [Pictures](#pictures)  <br>
@@ -31,7 +31,8 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 
 <br><br>
 
-<details><summary><h2> Education </h2></summary>
+## Education and Employment
+<details><summary>Click Me</summary>
 
 <h4>Education</h4>
 <br>
