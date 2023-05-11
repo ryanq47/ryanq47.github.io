@@ -27,7 +27,7 @@ If you're looking for my resume, certifications, etc, click [here](https://githu
 | Platform | Resource |
 |---|---|
 | Email | ryankleffman47@gmail.com |
-| Linkdin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
+| Linkedin | [Linkedin](https://www.linkedin.com/in/ryan-kleffman-489479223/) |
 
 
 ## Education
