@@ -22,7 +22,7 @@ subtitle                 : "subtitle" # site tagline that appears below site tit
 name                     : "Ryan Kleffman"
 description              : "A personal portfolio"
 url                      : "https://ryanq47.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : #"/home" # the subpath of your site, e.g. "/blog"
 repository               : "ryanq47/ryanq47.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/profilepic.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/profilepic.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+#  - ["_pages"]
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -293,3 +294,6 @@ defaults:
 
 ## enables sitewide search
 search: true
+
+## should icnlude pages dir
+include: ["_pages"]
