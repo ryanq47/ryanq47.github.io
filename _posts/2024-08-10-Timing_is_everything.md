@@ -1,6 +1,6 @@
 ---
 title: Timing is Everything
-date: 2024-08-10 00:00:00 +0600
+date: 2024-08-10 00:00:01 +0600
 categories: [CTF-Writeups, USCG-CTF-2024]
 tags: [forensics]     # TAG names should always be lowercase
 ---
