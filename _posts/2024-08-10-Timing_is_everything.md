@@ -5,21 +5,11 @@ categories: [CTF-Writeups, USCG-CTF-2024]
 tags: [forensics]     # TAG names should always be lowercase
 ---
 
-
-# Timing is Everything
----
-# Table of Contents 
-## Table of Contents 
-1. Intro
-2. Methodology and Approach
-	- Initial Exploration
-	- Dissecting Timestamps
-	- Script Bug
-3. Final Thoughts 
-
 # Intro
 ---
-SOMETEXT
+
+In this writeup, I take on a forensics challenge from the USCG CTF 2024, titled "Timing is Everything." The challenge provides a PCAP file that initially seems to showcase routine network communication between two hosts using the ICMP protocol, but is infact hiding data via a clever trick. I don't want to spoil said trick in the intro, so read on!
+
 
 # Methodology and Approach
 ---
