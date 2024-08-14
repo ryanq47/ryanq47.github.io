@@ -21,15 +21,15 @@ Opening the browser console revealed more details about the WebApp. Immediately,
 
 Given tsuto's reputation for leaving subtle hints in web challenges, I decided to keep an eye on the console while interacting with the WebApp.
 
-![[Pasted image 20240707145714.png]]
+![image](https://github.com/user-attachments/assets/771a0e3e-a2eb-4ee1-9270-da9033f862b2)
 
 Repeatedly clicking the bell leads to an interesting new message: `[ERROR] You're dinging too quickly!`. 
 
-![[Pasted image 20240707145852.png]]
+![image](https://github.com/user-attachments/assets/0ca2147a-d199-4d91-9351-3928f3b29370)
 
 Investigating further, I found that on each click, the `window.ding()` function was called.
 
-![[Pasted image 20240707150642.png]]
+![image](https://github.com/user-attachments/assets/6f19310b-72fc-44fd-86e8-f5c5225c02a1)
 
 At this point, I downloaded the entire challenge using a recursive `wget` command, which allowed me to take a closer look at the code. 
 
@@ -40,9 +40,9 @@ At this point, I downloaded the entire challenge using a recursive `wget` comman
 Searching for the `ding()` function revealed a few useful items, primarily the `main.js` file, which handles the interaction with `ding.wasm`.
 
 
-![[Pasted image 20240707152037.png]]
+![image](https://github.com/user-attachments/assets/7c253487-0bca-4332-a2f6-7f3e87b74551)
 
-![[Pasted image 20240711141630.png]]
+![image](https://github.com/user-attachments/assets/e9444189-9588-4841-869a-f7b3a5d227cd)
 
 Inside `main.js`, there were various functions, most of which were irrelevant for obtaining the flag, except for `giveFlag()`, which was "leaked" in a comment, in `main.js`. When called, it prints to the console: `[LOL] Did you think it would be that easy? Can you find my secret hidden function?` and plays the "Emotional Damage" sound bite - which was a great touch. 
 
@@ -53,13 +53,13 @@ The latest console message suggested finding a "secret hidden function." There a
 
 Typing `window` into the console listed everything the window could interact with. At the bottom of the following screenshot, all the functions from `main.js` were listed as expected. However, there was also a `superSecretFunction_585b46b3b6aecf7a` function, which, when expanded, was being called from the `wasm_exec.js` file. This seemed promising.
 
-![[Pasted image 20240707154155.png]]
+![image](https://github.com/user-attachments/assets/8d347c61-e7bc-45cc-ab37-80e23f5de89d)
 
-![[Pasted image 20240707154205.png]]
+![image](https://github.com/user-attachments/assets/86fce88b-4cf0-4d0c-b23d-f295a3fb14af)
 
 Calling this function in the console did the trick, and revealed the flag!
 
-![[Pasted image 20240707154236.png]]
+![image](https://github.com/user-attachments/assets/cfce955a-cedd-46eb-989e-333647097958)
 
 
 ## Final Thoughts
