@@ -19,8 +19,8 @@ Forensics challenges have a million ways to approach them, depending on the chal
 
 The PCAP is pretty simple, we see that there's only two hosts talking to each other, and the only protocol used between them is ICMP. 
 
-![[Pasted image 20240731131940.png]]
-![[Pasted image 20240731132036.png]]
+![image](https://github.com/user-attachments/assets/5168dfb3-f4b0-472c-8586-d0b3bf511815)
+![image](https://github.com/user-attachments/assets/31ddf1a5-f617-4540-b7a8-b04d630a3b15)
 
 Scrolling through each packet reveals that each one is the exact same! That's odd, networks don't usually work like that. The one thing that changes, is *when* the packets are sent. That, along with the fact that the challenge is called `timing is everything` probably means that there's something hidden in the timing of these packets.
 
@@ -37,10 +37,11 @@ Just to verify, I checked the time on the next packet as well, `0.156000`, which
 ## Scripting it out
 This PCAP is small enough that the flag could be extracted by hand, but if there were thousands of packets, like in a real world scenario, it's inefficient to do so. I did a bit of python scripting, and with some help from the scapy library, was able to pull the timestamp of each packet, and subtract them as needed. 
 
-![[Pasted image 20240731133453.png]]
+![image](https://github.com/user-attachments/assets/8ea098cc-cb4e-4eb6-8efc-c6e180c0d24d)
+
 Running this script, we get the following:
 
-![[Pasted image 20240731133531.png]]
+![image](https://github.com/user-attachments/assets/8544adbc-6a96-4479-b06c-49d027828f6a)
 
 ```
 083 073 086 085 083 067 071 123 084 049 109 049 11 057 095 049 053 095 051 118 051 114 121 116 104 049 11 057 125
@@ -48,7 +49,7 @@ Running this script, we get the following:
 
 If I toss those numbers in CyberChef, and select the `From Decimal` operation, I get the following:
 
-![[Pasted image 20240731133642.png]]
+![image](https://github.com/user-attachments/assets/e17250bf-0bf9-4a43-b359-02f1d7864ce9)
 
 ## Script Bug
 
@@ -56,7 +57,7 @@ Well, that's close... but why are there newlines? Turns out there's a bug in my 
 
 I could fix this, but the most efficient route in this case is to just add those 0's back in CyberChef:
 
-![[Pasted image 20240731133852.png]]
+![image](https://github.com/user-attachments/assets/880fae96-2368-4f7a-9b99-bf0b20b69ad7)
 
 ```
 SIVUSCG{T1m1n9_15_3v3ryth1n9}
