@@ -36,7 +36,7 @@ At a 10,000-foot view, the client:
 2. **Runs that Beacon in memory and pipes traffic through itself.**
 3. **Proxies Beacon traffic between the Controller and TeamServer.**
 
-Pretty typical stuff. However, the difference here is that it's mapped to commnicate over ICMP:
+Pretty typical stuff. However, the difference here is that it's mapped to communicate over ICMP:
 
 1. The Client embeds data in an **Echo Request** and sends it to the Controller.
 2. The Controller embeds a response in an **Echo Reply** and sends it back.
@@ -185,7 +185,7 @@ I want to build a more resilient client that incorporates proven evasion techniq
 
 2. Cobalt Strike Add-On for Uncommon Protocols
 
-Additioanlly, I'd like to transform this work into a full Cobalt Strike extension that supports a wider range of protocols beyond the defaults. While the built–in channels cover most use cases, they often feel predictable and are heavily fingerprinted. Adding niche or custom protocols sounds like a really cool project, and may actually get used by someone!
+Additionally, I'd like to transform this work into a full Cobalt Strike extension that supports a wider range of protocols beyond the defaults. While the built–in channels cover most use cases, they often feel predictable and are heavily fingerprinted. Adding niche or custom protocols sounds like a really cool project, and may actually get used by someone!
 
 ### Resources
 The link to this project's repo is here:
