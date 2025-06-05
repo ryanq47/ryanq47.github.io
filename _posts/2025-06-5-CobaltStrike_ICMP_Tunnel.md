@@ -169,7 +169,7 @@ Luckily, after thinking it through and getting some help from good old ChatGPT, 
 
 ### In Practice:
 
-<video src="/assets/vid/cs_icmp_tunnel.mkv" width="320" height="240" controls></video>
+<video src="/assets/vid/cs_icmp_tunnel.mkv" width="1920" height="1080" controls></video>
 
 
 `<images of it running>` (& basic setup?)
