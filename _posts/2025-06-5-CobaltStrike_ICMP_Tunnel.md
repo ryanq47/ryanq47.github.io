@@ -1,7 +1,7 @@
 ---
 title: Cobalt Strike - Implementing ICMP using External C2
 date: 2025-06-05 00:00:01 +0600
-categories: [Tools, Cobalt Strike, Malware]
+categories: [Tools, Cobalt-Strike, Malware]
 tags: [tools, cobalt-strike, malware]     # TAG names should always be lowercase
 ---
 
