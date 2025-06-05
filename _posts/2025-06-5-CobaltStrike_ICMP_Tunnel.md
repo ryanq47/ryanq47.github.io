@@ -189,7 +189,7 @@ Additionally, I'd like to transform this work into a full Cobalt Strike extensio
 ### Resources
 The link to this project's repo is here:
 
-[Github: CS-EXTC2-ICMP](https://github.com/ryanq47/CS-EXTC2-ICMP)
+ - [Github: CS-EXTC2-ICMP](https://github.com/ryanq47/CS-EXTC2-ICMP)
 
 
 Here are some additional resources I found helpful while working on this project:
@@ -200,7 +200,7 @@ Here are some additional resources I found helpful while working on this project
 
  - [Wikipedia ICMP Overview](https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol)
 
- - [The C2 Matrix | C2 Matrix](https://howto.thec2matrix.com/)
+ - [The C2 Matrix](https://howto.thec2matrix.com/)
 
 
 
