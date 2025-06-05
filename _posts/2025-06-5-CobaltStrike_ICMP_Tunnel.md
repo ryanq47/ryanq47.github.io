@@ -5,7 +5,6 @@ categories: [Tools, Cobalt-Strike, Malware]
 tags: [tools, cobalt-strike, malware]     # TAG names should always be lowercase
 ---
 
-# Cobalt Strike External C2 & A Beacon ICMP Layer
 
 Being able to build your own C2 layers has always fascinated me - and you can imagine my excitement when I discovered the ability to do this with Cobalt Strike's External C2 - so I decided to explore it a bit!
 
