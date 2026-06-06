@@ -1,7 +1,7 @@
 ---
 title: Honey I Shrunk the Implant
 date: 2026-06-05 00:00:01 +0600
-categories: [Implant, Backdoor]
+categories: [Tools, Backdoors]
 tags: [windows]     # TAG names should always be lowercase
 ---
 
