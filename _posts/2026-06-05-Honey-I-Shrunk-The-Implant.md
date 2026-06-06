@@ -409,5 +409,4 @@ Documentation & Articles:
 # Video Demo
 
 
-https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b
-
+<video src="https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b" width="100%" controls></video>
