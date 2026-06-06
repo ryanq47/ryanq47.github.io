@@ -408,6 +408,7 @@ Documentation & Articles:
 
 # Video Demo
 
+(If this is busted - the direct link is here: https://github.com/ryanq47/backdoor-buddies/blob/main/x64_smb_backdoor/blog/images/demo.mp4)
 
 <video width="100%" controls>
   <source src="https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b" type="video/mp4">
