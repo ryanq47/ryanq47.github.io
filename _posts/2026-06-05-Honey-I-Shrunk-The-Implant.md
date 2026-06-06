@@ -415,7 +415,7 @@ https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b
 /* Increase the max width of the article specifically for this post */
 @media (min-width: 1200px) {
   #main-wrapper > .container {
-    max-width: 1400px !important;
+    max-width: 1200px !important;
   }
   #main-wrapper > .container > .row > .col-12 {
     flex: 0 0 95% !important;
