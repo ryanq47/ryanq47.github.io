@@ -409,4 +409,6 @@ Documentation & Articles:
 # Video Demo
 
 
-<video src="https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b" width="100%" controls></video>
+<video width="100%" controls>
+  <source src="https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b" type="video/mp4">
+</video>
