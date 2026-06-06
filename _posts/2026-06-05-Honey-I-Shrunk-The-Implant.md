@@ -123,6 +123,7 @@ The `/FILEALIGN` linker option lets you specify the alignment of sections writte
 Initially, in addition to the merge flag, this appears lead to a generous file size reduction:
 
 #### `/FILEALIGN:4`:
+
 | Implementation | Source File | Size (without flag) | Size (with flag) | Size Reduction (bytes) | Size Reduction (%) |
 |---|---|---|---|---|---|
 | DLL  | `main.dll.asm` | `2560` bytes |`1800` bytes | `760` bytes | **-29.69%** |
@@ -140,6 +141,7 @@ Program 'x64_smb_backdoor.exe' failed to run: The specified executable is not a 
 You *can* go smaller than 512, and that requires setting the `/ALIGN` flag, which adds a significant amount of size to the binary, making this flag not helpful for our size goal.
 
 #### `/ALIGN:16 /FILEALIGN:16` :
+
 | Implementation | Source File | Size (without flag) | Size (with flag) | Size Addition (bytes) | Size Increase (%)  |
 |---|---|---|---|---|---|
 | DLL  | `main.dll.asm` | `2560` bytes |`4144` bytes | `1584` bytes | **+61.875%** |
@@ -406,4 +408,3 @@ Documentation & Articles:
 
 
 https://github.com/user-attachments/assets/067c57ca-ea38-4429-941f-c2da3844447b
-
