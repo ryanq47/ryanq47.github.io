@@ -79,7 +79,7 @@ Merge lead to the largest reduction, specifically by merging the `.rdata` sectio
 
 Without the merge flag, there are a total of 5 headers in the binary, which of course includes `.rdata`. 
 
-![](./images/ghidra_mmap_no_flags.png)
+<img width="560" height="299" alt="ghidra_mmap_no_flags" src="https://github.com/user-attachments/assets/fb1f0a8b-c0a2-409b-951c-bd727b161267" />
 
 
 
@@ -88,8 +88,7 @@ Without the merge flag, there are a total of 5 headers in the binary, which of c
 
 Things get interesting with the merge flag enabled, as we again have 5 headers, but `.idata` is present instead of `.rdata`. Even weirder, it's only 512 bytes, and the other sections are still the same size:
 
-![](./images/ghidra_mmap_merged_rdata.png)
-
+<img width="679" height="307" alt="ghidra_mmap_merged_rdata" src="https://github.com/user-attachments/assets/ebad2d4a-c690-4ce0-be72-084f365f42ce" />
 
 This raises a few questions:
 
@@ -107,15 +106,14 @@ The short version is that the IAT needs to be writeable* by the loader in order 
 
 As stated above, `.idata` is half the size that `.rdata` was. It appears to just be padding and fluff that was removed. The start of `.text` in the merged binary has some data that was previously in `.rdata`, as expected due to the merge:
 
+<img width="1279" height="457" alt="ghidra_sxs_text_rdata" src="https://github.com/user-attachments/assets/ae82d430-8039-4b6e-8932-33ddacb9eab5" />
 
-![](./images/ghidra_sxs_text_rdata.png)
 
 With the merged binary, the actual executable code starts right after the  section map. The non-merged binary, `.rdata` continues on with the `IMAGE_IMPORT_DESCRIPTOR`, and then has 395 instructions of padding, which is likely where a lot of space saving is coming from. 
 
 > Padding is at address `0x140002275` ->`0x1400023ff` of the non-merged binary, it's too long for a full screenshot
 
-![](./images/ghidra_sxs_text_rdata_2.png)
-
+<img width="1277" height="590" alt="ghidra_sxs_text_rdata_2" src="https://github.com/user-attachments/assets/44aa21de-fed6-4df4-8927-b38278f014cb" />
 
 ### `/FILEALIGN:X`:
 - [MSVC-170 `/FILEALIGN`](https://learn.microsoft.com/en-us/cpp/build/reference/filealign?view=msvc-170)
