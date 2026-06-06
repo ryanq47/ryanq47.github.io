@@ -18,7 +18,7 @@ tags: [windows]     # TAG names should always be lowercase
 - [Playing Blue Team](#playing-blue-team)
 	- [Detections](#detections)
 
-- [Conclusion](#conclusion)
+- [Conclusion](#conclusion--future-improvements)
 
 - [Technical References](#technical-references)
 	- [Local Setup](#local-setup) 
@@ -58,7 +58,7 @@ The tool's structure is pretty straightforward. I've broken down each core funct
 By default, `nasm.exe` has `-Ox multipass optimization (default)` enabled, and messing with other flags didn't yield any size improvements.  
 
 
-## 2.  Linking
+## 2. Linking
 #### Resources:
 - [MSVC Link.exe Documentation](https://learn.microsoft.com/en-us/cpp/build/reference/linker-options?view=msvc-170)
 - [PE Format Docs](https://learn.microsoft.com/en-us/windows/win32/debug/pe-format)
