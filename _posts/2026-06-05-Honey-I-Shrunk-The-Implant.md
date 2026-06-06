@@ -394,7 +394,7 @@ Runs `calc.exe`
 
 Code:
 - [Github Repo](https://github.com/ryanq47/backdoor-buddies)
-- [X64_SMB_BACKDOOR Assembly Source](https://github.com/ryanq47/backdoor-buddies/blob/main/x64_smb_backdoor/main.asm)
+- [X64_SMB_BACKDOOR Assembly Source](https://github.com/ryanq47/backdoor-buddies/blob/main/x64_smb_backdoor/main.exe.asm)
 
 Tooling:
  - [Ghidra](https://github.com/nationalsecurityagency/ghidra) 
